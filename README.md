@@ -5,6 +5,7 @@ Simple java codes
 
 #patterns
 
+#arrays
 
 #Numbers
 
