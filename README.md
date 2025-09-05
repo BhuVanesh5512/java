@@ -12,4 +12,4 @@ Simple java codes
 
 #paratices
 
-#Java Basics 
+#Java Basic
